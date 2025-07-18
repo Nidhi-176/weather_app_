@@ -27,3 +27,8 @@ Local weather icon
 5. User input validation and error handling
 6. Basic design and UX principles in Python GUI
 
+   <img width="406" height="486" alt="Screenshot 2025-07-18 at 11 39 53 AM" src="https://github.com/user-attachments/assets/d0cdade4-40ff-4358-86ef-7950e62a4696" />
+<img width="402" height="481" alt="Screenshot 2025-07-18 at 11 38 23 AM" src="https://github.com/user-attachments/assets/0dd61ad6-9315-4d49-adcd-5993bcc260a9" />
+<img width="402" height="482" alt="Screenshot 2025-07-18 at 11 37 35 AM" src="https://github.com/user-attachments/assets/9edd4746-1350-4b00-bb81-ca2c77a20d72" />
+
+
